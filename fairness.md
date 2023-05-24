@@ -76,6 +76,8 @@ All the group-work programming will be carried out in *Python*, so knowledge of 
 **14:00-14:30  Summary and introduction to Day 2 task.**
 **14:30-16:30  Work on task**
 
+WHERE SHALL WE PLACE THE SHORT TASK WITH THE CASE STUDIES? 
+
 ### Day 2: Group work
 
 The second day will be mostly spent working on the task.
