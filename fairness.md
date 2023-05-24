@@ -66,28 +66,28 @@ All the group-work programming will be carried out in *Python*, so knowledge of 
 - How do we evaluate algorithmic fairness? 
 - What are the limits of algorithmic solutions? 
 
-**11:15-11.30 Race and gender in health data**
+**11:15-11:30 Race and gender in health data**
 
 - How is race and gender encoded in health data? 
 - Pros and cons of including these variables in statistical modelling. 
 
-**11.30-12.30 External speaker**
+**11:30-12:30 External speaker**
 
-**14.00-15.00  Summary and introduction to Day 2 task.**
+**14:00-14:30  Summary and introduction to Day 2 task.**
+**14:30-16:30  Work on task**
 
 ### Day 2: Group work
 
-The second day will be mostly spent working on the task with the help of instructors. 
+The second day will be mostly spent working on the task.
 
 | Time | Task |
 | ---- | ---- |
-| 9.30-11.30 | Exploratory data analysis |
-
-|11.30-12.30 | External speaker|
-| 14.00-14.30 | Finalise models |
-| 14.30-15.00 | Submit results and evaluate outcomes |
-| 15.00-15.45 | Short presentations by each group |
-| 15.45-16.00 | Summary and closing remarks |
+| 9:30-11:30 | Exploratory data analysis |
+| 11:30-12:30 | External speaker|
+| 14:00-14:30 | Finalise models |
+| 14:30-15:00 | Submit results and evaluate outcomes |
+| 15:00-15:45 | Short presentations by each group |
+| 15:45-16:00 | Summary and closing remarks |
 
 ### Additional resources
 
