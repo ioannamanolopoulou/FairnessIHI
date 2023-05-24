@@ -52,21 +52,28 @@ All the group-work programming will be carried out in *Python*, so knowledge of 
 
 ### Day 1: Introduction
 
-**9.30-10.15 What is bias in healthcare modelling?**
+**9.30-10.00 What is bias in healthcare modelling?**
 
-**10:30-12:30 Bias in data collection**
+**10:00-10:30 Bias in data collection**
 
 - What is selection bias? 
 - What are common sources of selection bias? 
 - Can we correct for selection bias? 
 
-**14:00-15:30 Algorithmic fairness in healthcare**
+**10:30-11:00 Algorithmic fairness in healthcare**
 
 - What is algorithmic fairness?
 - How do we evaluate algorithmic fairness? 
 - What are the limits of algorithmic solutions? 
 
-**15.30-16.00: Summary and introduction to Day 2 task.**
+**11:15-11.30 Race and gender in health data**
+
+- How is race and gender encoded in health data? 
+- Pros and cons of including these variables in statistical modelling. 
+
+**11.30-12.30 External speaker**
+
+**14.00-15.00  Summary and introduction to Day 2 task.**
 
 ### Day 2: Group work
 
@@ -74,14 +81,13 @@ The second day will be mostly spent working on the task with the help of instruc
 
 | Time | Task |
 | ---- | ---- |
-| 9.30-10.15 | Exploration data analysis |
-| 10.30-12.30 | Work on task |
-| 14.00-14.30 | Check-in with instructor |
-| 14.30-16.00 | Work on task |
+| 9.30-11.30 | Exploratory data analysis |
 
-| 9.30-10.00 | Submit results and evaluate outcomes |
-| 10.00-12.00 | Short presentations by each group |
-| 12.00-12.30 | Summary and closing remarks |
+|11.30-12.30 | External speaker|
+| 14.00-14.30 | Finalise models |
+| 14.30-15.00 | Submit results and evaluate outcomes |
+| 15.00-15.45 | Short presentations by each group |
+| 15.45-16.00 | Summary and closing remarks |
 
 ### Additional resources
 
