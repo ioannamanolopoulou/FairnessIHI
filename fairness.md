@@ -1,10 +1,10 @@
-# HDR001 Fairness in healthcare modelling
+# HDR001 Fairness and bias in healthcare modelling
 
 ## Basic Information
 
 | Course Item | Detail |
 | :---- | :------ |
-| Title | Fairness in healthcare modelling |
+| Title | Fairness and bias in healthcare modelling |
 | Leader | [Brieuc Lehmann](https://brieuclehmann.github.io/), [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46), [Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/) |
 | Duration | 2 days |
 | Location | Institute for Health Informatics, Room ??? |
@@ -85,7 +85,7 @@ The second day will be mostly spent working on the task.
 | Time | Task |
 | ---- | ---- |
 | 9:30-11:30 | Exploratory data analysis |
-| 11:30-12:30 | External speaker|
+| 11:30-12:30 | External speaker: Nikolas Pontikos|
 | 14:00-14:30 | Finalise models |
 | 14:30-15:00 | Submit results and evaluate outcomes |
 | 15:00-15:45 | Short presentations by each group |
