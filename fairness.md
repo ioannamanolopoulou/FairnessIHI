@@ -13,7 +13,7 @@
 
 ### Overview 
 
-The aim of this training is to cover the basic principles of fairness in healthcare modelling and highlight aspects of fairness that Health Data Scientists need to be aware of in their own research.
+The aim of this training is to cover the basic principles of fairness and bias in healthcare modelling and highlight aspects of fairness that Health Data Scientists need to be aware of in their own research.
 
 ### Intended Learning Outcomes
 
@@ -23,20 +23,7 @@ The aim of this training is to cover the basic principles of fairness in healthc
 
 ### Teaching methods
 
-The first part of the training will be largely based around discussions, but participants are expected to have read 1-2 of the key papers in this area that are listed below. In the second part, participants will be split into groups and work on a task. 
-
-## Pre-requisites
-
-TO BE REPLACED BY WHATEVER DATASET WE WILL USE. Students will also need access to the [Nightingale](https://app.nightingalescience.org/projects) data. Nightingale is an open platform for health data but requires registration in advance and approval can take several days, so early registration is required. The platform contains lots of information on existing projects. Students are also advised to complete the MRC [“Research, GDPR and confidentiality”](https://byglearning.com/mrcrsc-lms/course/index.php?categoryid=1) e-learning module (or another equivalent training). 
-
-For those who may be interested in finding out more about fairness in healthcare modelling, the MIT course [“Ethical Machine Learning in Human Deployments”](https://canvas.mit.edu/courses/14219) by Dr. Marzyeh Ghassemi is excellent. 
-
-All the group-work programming will be carried out in *Python*, so knowledge of Python would be preferred but not necessary. 
-
-**To do:**
-
-1. Register for access to the [Nightingale](https://app.nightingalescience.org/projects) data.
-2. Complete the MRC [“Research, GDPR and confidentiality”](https://byglearning.com/mrcrsc-lms/course/index.php?categoryid=1) e-learning module.
+The first part of the training will be largely based around discussions, but participants are expected to have read the key papers in this area that are listed below. In the second part, participants will be split into groups and work on a task. 
 
 ## Timetable
 
@@ -77,6 +64,8 @@ The second day will be mostly spent working on the task.
 | 15:45-16:00 | Summary and closing remarks |
 
 ### Additional resources
+
+For those who may be interested in finding out more about fairness in healthcare modelling, the MIT course [“Ethical Machine Learning in Human Deployments”](https://canvas.mit.edu/courses/14219) by Dr. Marzyeh Ghassemi is excellent. 
 
 1. Sahil Verma and Julia Rubin (2018). *Fairness definitions explained*. In Proceedings of the International Workshop on Software Fairness (FairWare '18). 
 
