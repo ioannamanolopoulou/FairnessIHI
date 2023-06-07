@@ -7,7 +7,7 @@
 | Title | Fairness and bias in healthcare modelling |
 | Leader | [Brieuc Lehmann](https://brieuclehmann.github.io/), [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46), [Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/) |
 | Duration | 2 days |
-| Location | Institute for Health Informatics, Room ??? |
+| Location | Institute for Health Informatics, 222 Euston Road, G01 |
 
 ## Description
 
