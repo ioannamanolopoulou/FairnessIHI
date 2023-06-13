@@ -45,10 +45,10 @@ The first part of the training will be largely based around discussions, but par
 | 10:00-10:30 | Bias in data collection: what is it, what are common sources, can we correct for it? |
 | 10:30-11:00 | Algorithmic fairness in healthcare: what is it, how we do evaluate it, what are the limits of algorithmic solutions?  |
 | 11:15-11:30 | Race and gender in health data: how are they encoded and what are the pros and cons of using them in modelling? |
-| 11:30-12:00 | Introduction to Day 1 task: case studies |
-| 12:00-13:00 | External speaker: Honghan Wu |
-| 14:00-14:30 | Day 1 task: case studies |
-| 14:30-16:30 | Summary and introduction to Day 2 task.|
+| 11:30-12:15 | Introduction to Day 1 task: case studies |
+| 12:15-13:00 | External speaker: Honghan Wu |
+| 13:00-13:15 | Introduction to Day 2 task |
+| 14:00-16:30 | Discussion and Day 2 task.|
 
 ### Day 2: Group work
 
